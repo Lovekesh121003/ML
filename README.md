@@ -43,6 +43,7 @@ The dataset contains 1,750 images, with 250 images per class. These images were 
 ---
 ## Result
 ![Alt text](https://github.com/Lovekesh121003/ML/blob/main/images/Graphs.jpg?raw=true)
+![Alt text](https://github.com/Lovekesh121003/ML/blob/main/images/Matrix.jpg?raw=true)
 ---
 ## Future Work
 - Increase training epochs to enhance accuracy.
