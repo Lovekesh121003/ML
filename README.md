@@ -60,6 +60,6 @@ The dataset contains 1,750 images, with 250 images per class. These images were 
 ## Contact
 For queries or contributions, feel free to reach out:
 - **Name**: Lovekesh Jain
-- **Email**: your_email@example.com
-- **GitHub**: [your_github_profile](https://github.com/<your_username>)
+- **Email**: lovekeshjain13@gmail.com
+- **GitHub**: https://github.com/Lovekesh121003
 
