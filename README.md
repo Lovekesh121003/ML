@@ -41,48 +41,6 @@ The dataset contains 1,750 images, with 250 images per class. These images were 
 - **Epochs**: 20
 - **Accuracy**: 96%
 
----
-
-## Setup Instructions
-
-### Prerequisites
-- Python 3.8+
-- TensorFlow/Keras
-- NumPy
-- Matplotlib
-- OpenCV (optional, for additional preprocessing)
-
-### Installation
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/<your_username>/fish-disease-detection.git
-    cd fish-disease-detection
-    ```
-2. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Download the dataset and place it in the `data/` directory (create if necessary).
-
----
-
-## Usage
-
-### Training
-To train the model on your local machine:
-```bash
-python train.py
-```
-
-### Prediction
-To classify a fish image:
-```bash
-python predict.py --image path_to_image
-```
-
-### Results
-- The trained model and performance metrics are stored in the `results/` directory.
 
 ---
 
@@ -96,11 +54,6 @@ python predict.py --image path_to_image
 ## Acknowledgments
 - Agricultural organizations and farms for providing images.
 - Open-source contributors for tools and frameworks.
-
----
-
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
