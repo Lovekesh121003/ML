@@ -40,10 +40,10 @@ The dataset contains 1,750 images, with 250 images per class. These images were 
 - **Loss Function**: Categorical Crossentropy
 - **Epochs**: 20
 - **Accuracy**: 96%
-
+---
+## Result
 
 ---
-
 ## Future Work
 - Increase training epochs to enhance accuracy.
 - Expand dataset with more diverse samples.
