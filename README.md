@@ -42,7 +42,7 @@ The dataset contains 1,750 images, with 250 images per class. These images were 
 - **Accuracy**: 96%
 ---
 ## Result
-![Alt text](path_to_image)
+![Alt text](https://github.com/Lovekesh121003/ML/blob/main/images/Graphs.jpg?raw=true)
 ---
 ## Future Work
 - Increase training epochs to enhance accuracy.
